@@ -2,7 +2,7 @@
 
 <br>
 
-[![Watch the video](https://nabegheha.com/img/youtube_thumbnail.jpg)](https://youtu.be/_ct9S6b73Ak)
+[![Watch the video](https://nabegheha.com/img/youtube_thumbnail.jpg)](https://youtu.be/_ZG-Wgvg7r0)
 
 
 <h3 align="center">Python Game Development - Create Flappy Bird With Pygame 2</h3>
