@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://nabegheha.com/">
-        <img src="https://nabegheha.com/img/mian_github.jpg" alt="Bootstrap logo" width="800" height="500">
+        <img src="https://nabegheha.com/img/mian_github.jpg" alt="AmirHosein Moallemi">
     </a>
 </p>
 
