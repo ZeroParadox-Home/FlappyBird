@@ -1,8 +1,8 @@
-## 01.Watch the first part of this tutorial on YouTube
+## 02.Watch the Second part of this tutorial on YouTube
 
 <br>
 
-[![Watch the video](https://nabegheha.com/img/youtube_thumbnail.jpg)](https://youtu.be/_ZG-Wgvg7r0)
+[![Watch the video](https://nabegheha.com/img/youtube_thumbnail.jpg)](https://youtu.be/9ru0S4hXeNM)
 
 
 <h3 align="center">Python Game Development - Create Flappy Bird With Pygame 2</h3>
