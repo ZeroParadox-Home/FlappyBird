@@ -29,3 +29,4 @@ to the desired branch.
 ## List of branches
 
 - [01.Create Flappy Bird With Pygame 2](https://github.com/NABEGHEHACOM/FlappyBird/tree/01.FlappyBird)
+- [02.Create Flappy Bird With Pygame 2](https://github.com/NABEGHEHACOM/FlappyBird/tree/02.FlappyBird)
