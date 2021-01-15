@@ -1,7 +1,7 @@
 # NABEGHEHA.COM
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - -#
 # Github       : https://github.com/NABEGHEHACOM/FlappyBird/
-# Youtube      : https://youtu.be/9ru0S4hXeNM
+# Youtube      : https://youtu.be/_ZG-Wgvg7r0
 # Social Media : https://nabegheha.com/socials/
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - -#
 # Python Version : 3.9
@@ -16,14 +16,10 @@ pygame.init()
 
 
 main_screen = pygame.display.set_mode((576, 1024))
-clock = pygame.time.Clock()
 
 while True:
     for event in pygame.event.get():
         if event.type == pygame.QUIT:
             pygame.quit()
-            sys.exit()
-
-    pygame.display.update()        
-    clock.tick(90)    
+            sys.exit()  
     
