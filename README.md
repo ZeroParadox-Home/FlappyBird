@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://nabegheha.com/">
-        <img src="https://nabegheha.com/img/mian_github.jpg" alt="AmirHosein Moallemi">
+        <img src="https://nabegheha.com/img/pygame_github.jpg" alt="AmirHosein Moallemi">
     </a>
 </p>
 
@@ -30,3 +30,4 @@ to the desired branch.
 
 - [01.Create Flappy Bird With Pygame 2](https://github.com/NABEGHEHACOM/FlappyBird/tree/01.FlappyBird)
 - [02.Create Flappy Bird With Pygame 2](https://github.com/NABEGHEHACOM/FlappyBird/tree/02.FlappyBird)
+- [03.Create Flappy Bird With Pygame 2](https://github.com/NABEGHEHACOM/FlappyBird/tree/03.FlappyBird)
