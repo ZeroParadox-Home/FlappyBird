@@ -1,4 +1,4 @@
-## 03.Watch the Third part of this tutorial on YouTube
+## Watch the Third part of this tutorial on YouTube
 
 <br>
 
