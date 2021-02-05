@@ -1,8 +1,9 @@
-<p align="center">
-    <a href="https://nabegheha.com/">
-        <img src="https://nabegheha.com/img/pygame_github.jpg" alt="AmirHosein Moallemi">
-    </a>
-</p>
+## Watch the Sixth part of this tutorial on YouTube
+
+<br>
+
+[![Watch the video](https://nabegheha.com/img/pygame_6_github.jpg)](https://youtu.be/Ne4sxtSsrKc)
+
 
 <h3 align="center">Python Game Development - Create Flappy Bird With Pygame 2</h3>
 
@@ -18,19 +19,3 @@
     ·
     <a href="https://nabegheha.com/blog">Blog</a>
 </p>
-
-## Flappy Bird
-
-Our default branch is only for displaying episodes posted on YouTube. To see the codes of each Section Separately, refer
-to the desired branch.
-
-<br>
-
-## List of branches
-
-- [01.Create Flappy Bird With Pygame 2](https://github.com/NABEGHEHACOM/FlappyBird/tree/01.FlappyBird)
-- [02.Create Flappy Bird With Pygame 2](https://github.com/NABEGHEHACOM/FlappyBird/tree/02.FlappyBird)
-- [03.Create Flappy Bird With Pygame 2](https://github.com/NABEGHEHACOM/FlappyBird/tree/03.FlappyBird)
-- [04.Create Flappy Bird With Pygame 2](https://github.com/NABEGHEHACOM/FlappyBird/tree/04.FlappyBird)
-- [05.Create Flappy Bird With Pygame 2](https://github.com/NABEGHEHACOM/FlappyBird/tree/05.FlappyBird)
-- [06.Create Flappy Bird With Pygame 2](https://github.com/NABEGHEHACOM/FlappyBird/tree/06.FlappyBird)
